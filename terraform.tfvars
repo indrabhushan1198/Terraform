@@ -1,0 +1,7 @@
+aws_access_key    = " "
+aws_secret_key    = " "
+aws_region      = "us-east-1"
+s3-bucket-lambda-code = "non-resized-image-clouddevopshub-2026"
+s3-bucket-dest    = "resized-images-clouddevopshub-2026"
+sns-name       = "Resized-Image-SNS-Topic"
+mail-id       = "indrabhushan.maluche@gmail.com"
